@@ -1,0 +1,12 @@
+.recurrence-options {
+    margin-bottom: 20px;
+  }
+  
+  .recurrence-options label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .recurrence-options input[type="radio"] {
+    margin-right: 10px;
+  }

@@ -1,0 +1,18 @@
+.mini-calendar {
+    margin-bottom: 20px;
+  }
+  
+  .mini-calendar table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .mini-calendar th, .mini-calendar td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .mini-calendar th {
+    background-color: #f0f0f0;
+  }

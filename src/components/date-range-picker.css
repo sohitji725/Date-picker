@@ -1,0 +1,16 @@
+.date-range-picker {
+    margin-bottom: 20px;
+  }
+  
+  .date-range-picker label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  .date-range-picker input[type="date"] {
+    width: 150px;
+    height: 30px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
